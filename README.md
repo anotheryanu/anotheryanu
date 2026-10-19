@@ -13,7 +13,7 @@
 - 🛡️ Passionate about **Cyber Security** – from web vulnerabilities to network hardening
 - 🧠 Currently diving deeper into **Go, Rust, and Cloud Security**
 - 🧪 I break things so I can fix them better
-- 📫 Reach me: [email@example.com](mailto:email@example.com) or [linkedin.com/in/yourprofile](https://linkedin.com)
+- 📫 Reach me: [yanuaryanuar596@gmail.com](yanuaryanuar596@example.com) or [www.linkedin.com/in/yanuar-putra-467b10437](www.linkedin.com/in/yanuar-putra-467b10437)
 
 ---
 
